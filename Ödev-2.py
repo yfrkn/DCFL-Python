@@ -3,6 +3,7 @@
 # bu listenin kaç elemanlı olduğunu ekrana yazdıralım
 # öğretmen isimlerine göre alfabetik olarak ekrana yazdıralım
 # öğretmenin isimleri yazarak onunla ilgili verilerin olduğu listeyi ekrana yazdıralım
+
 ogretmenler = []
 isimler = []
 while True:

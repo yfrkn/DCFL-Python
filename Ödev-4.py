@@ -1,4 +1,7 @@
 #                   5. Hafta Ödevi-1
+
+#ödev: bir öğrencinin not aralığını harflerle ifade eden mini programı kodlayınız...
+
 print("Aldığınız Nota Göre Notunuzu Harflerle İfade Eden Program")
 sinavnotu = int(input("Sınavdan Aldığınız Notu Girin : "))
 if 90 <= sinavnotu <= 100:
@@ -21,3 +24,7 @@ elif 0 <= sinavnotu <= 49:
     print("Sınavdan FF Aldınız.")
 else:
     print("Hatalı Not Girdiniz.")
+   
+#                   5. Hafta Ödevi-2
+
+#250 sayfalık bir kitap için 5 rakamı kaç kere kullanılmıştır...

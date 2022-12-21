@@ -1,3 +1,5 @@
+#                  3. Hafta Ödevi
+
 # Ödev: okulumuzdaki öğretmenlerin, isimleri, branşları, girdikleri sınıfları; her bir öğretmenin bu verilerini bir listeye ekleyelim.
 # Sonrasında bütün öğretmenleri de daha büyük bir listeye ekleyelim.
 # bu listenin kaç elemanlı olduğunu ekrana yazdıralım

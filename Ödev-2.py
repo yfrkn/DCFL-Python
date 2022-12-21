@@ -1,4 +1,4 @@
-#                  3. Hafta Ödevi
+#                  3. Ders Ödevi
 
 # Ödev: okulumuzdaki öğretmenlerin, isimleri, branşları, girdikleri sınıfları; her bir öğretmenin bu verilerini bir listeye ekleyelim.
 # Sonrasında bütün öğretmenleri de daha büyük bir listeye ekleyelim.

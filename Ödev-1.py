@@ -1,4 +1,5 @@
 #             1. Hafta Ödevi
+
 #Küpün Hacmini ve Yüzey Alanını Bulan Program
 kenar = float(input("Küpün kenar uzunluğunu giriniz : "))
 hacim = kenar**3

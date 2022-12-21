@@ -1,3 +1,7 @@
+#     4. Ders Ödevi
+
+#koşul durmlarını kullanarak... mini bi hesap makinası yapınız!
+
 print("""
 Hesap Makinesi
 

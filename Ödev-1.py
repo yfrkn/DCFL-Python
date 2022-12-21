@@ -1,4 +1,4 @@
-#             1. Hafta Ödevi
+#            1. Ders Ödevi
 
 #Küpün Hacmini ve Yüzey Alanını Bulan Program
 kenar = float(input("Küpün kenar uzunluğunu giriniz : "))

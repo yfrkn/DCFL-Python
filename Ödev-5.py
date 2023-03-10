@@ -28,3 +28,7 @@ else:
 #                   5. Hafta Ödevi-2
 
 #250 sayfalık bir kitap için 5 rakamı kaç kere kullanılmıştır...
+kelime = ""
+for i in range(1,251):
+  kelime +=str(i)
+print(kelime.count("5"))
